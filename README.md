@@ -9,7 +9,7 @@ I'm a senior software engineer with over two decades of experience building secu
 
 ## 🔧 Featured Project
 **CrossPort** – A microcontroller-powered USB keyboard that restores clipboard freedom in restricted environments. Plug in, press, paste. No drivers. No traces.  
-[*Learn more »*](https://yourusername.github.io/crossport-site/)
+[*Learn more »*](https://escuber.github.io/crossport-site/)
 
 ## 🧪 Skills & Stack
 **Languages:** C#, Java, Python, TypeScript, C++, VB  
