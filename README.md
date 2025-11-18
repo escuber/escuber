@@ -1,26 +1,84 @@
-# 👋 Hi, I'm James Gaudette
+# 👋 Hi, I'm Jim Gaudette
 
-I'm a senior software engineer with over two decades of experience building secure, scalable systems — from credit card platforms to biometric background check apps. I specialize in full-stack development with a deep interest in automation, embedded devices, and solving problems others avoid.
+Im a senior software engineer with over 30 years of experience delivering enterprise systems, AI automation engines, and embedded tools.  
+I focus on building real, practical software that removes friction from everyday digital work — from regulated banking platforms to accessibility-focused screen automation.
 
-## 🧰 What I Build
-- 🧠 Scalable systems for complex domains (finance, biometrics, logistics)
-- 🛠️ Embedded tools for constrained environments
-- 💡 Personal hardware/software projects that explore practical creativity
+I build across three layers:
 
-## 🔧 Featured Project
-**CrossPort** – A microcontroller-powered USB keyboard that restores clipboard freedom in restricted environments. Plug in, press, paste. No drivers. No traces.  
-[*Learn more »*](https://escuber.github.io/crossport-site/)
-
-## 🧪 Skills & Stack
-**Languages:** C#, Java, Python, TypeScript, C++, VB  
-**Frameworks:** .NET (Core/Framework), Angular, React, Spring Boot  
-**DevOps:** Jenkins, Docker, Azure, AWS, Rancher  
-**Databases:** SQL Server, Oracle, NoSQL, DynamoDB  
-**Specialties:** CI/CD, secure systems, high-availability apps, embedded integrations
+- **AI systems**: LLM orchestration, OCR, vision pipelines, agent-driven automation  
+- **Enterprise engineering**: .NET microservices, cloud platforms, secure workflow tools  
+- **Embedded devices**: ESP32, RP2040, HID bridges, BLE, hardware-integrated automation  
 
 ---
 
-📍 Based in North Aurora, IL  
-✉️ [jimgaudette@gmail.com](mailto:jimgaudette@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jimgaudette)
+## 🚀 What I Build
+
+### **AI + Screen Automation**
+Systems that let AI observe a screen, understand structure and intent, then take action over a hardware keyboard bridge.  
+No APIs. No browser plugins. Just pixels in → keystrokes out.
+
+### **Embedded + Automation Tools**
+Custom devices that bridge mobile apps, PCs, and automation flows, including ESP32/2040-based HID, BLE, sensor integrations, and performance-critical controllers.
+
+### **Enterprise Software**
+Large-scale .NET and Angular applications for regulated environments, including banking, finance, and secure portals.
+
+---
+
+## ⭐ Featured Projects
+
+### **Sightline (Provisional Patent Filed)**
+A visual-state engine that analyzes any screen, identifies fields, labels, and errors, and directs AI orchestration for step-by-step workflow completion.
+
+### **CrossPort (Provisional Patent Filed)**
+A microcontroller-powered USB keyboard that restores clipboard freedom in locked-down environments.  
+HID only — no drivers, no traces.  
+Designed for accessibility and automation.
+
+### **KeyCatcher**
+An ESP32-based tool that captures, forwards, or transforms input across devices (Android ↔ PC) using BLE and USB HID.  
+Useful for automation, accessibility, and cross-device control.
+
+### **CoachPort**
+A MAUI/Playwright-powered system that assists with job applications by parsing forms, identifying required fields, and automating navigation and completion.
+
+---
+
+## 🧠 Skills & Stack
+
+### **Languages**
+C#, Python, JavaScript/TypeScript, C/C++, VB
+
+### **Frameworks**
+.NET (Core/Framework), Angular, MAUI, FastAPI, Node
+
+### **AI & Vision**
+Whisper, OCR pipelines, LLAMA/Qwen/Dolphin models, Orpheus TTS, embeddings, vector search
+
+### **Embedded**
+ESP32, RP2040, Raspberry Pi  
+USB HID bridges, BLE, sensor integration, real-time protocols
+
+### **Cloud & DevOps**
+Azure, AWS, Docker, Jenkins, GitHub Actions, Rancher
+
+### **Databases**
+SQL Server, Oracle, NoSQL, DynamoDB
+
+### **Specialties**
+AI agents, UI automation, accessibility workflows, high-availability systems, secure apps, firmware integrations
+
+---
+
+## 📍 Contact
+
+📫 jimgaudette@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jim-gaudette/)  
+🌎 Based in North Aurora, IL
+
+---
+
+## 📌 Pinned Projects
+
+I pin active builds, prototypes, and research — from AI orchestration and FastAPI microservices to embedded tools and job-automation engines.
 
