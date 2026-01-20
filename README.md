@@ -3,6 +3,8 @@
 Im a senior software engineer with over 30 years of experience delivering enterprise systems, AI automation engines, and embedded tools.  
 I focus on building real, practical software that removes friction from everyday digital work — from regulated banking platforms to accessibility-focused screen automation.
 
+This work focuses on solving automation and accessibility problems that traditional browser plugins, RPA tools, and cloud agents consistently fail at.
+
 I build across three layers:
 
 - **AI systems**: LLM orchestration, OCR, vision pipelines, agent-driven automation  
@@ -52,9 +54,6 @@ C#, Python, JavaScript/TypeScript, C/C++, VB
 ### **Frameworks**
 .NET (Core/Framework), Angular, MAUI, FastAPI, Node
 
-### **AI & Vision**
-Whisper, OCR pipelines, LLAMA/Qwen/Dolphin models, Orpheus TTS, embeddings, vector search
-
 ### **Embedded**
 ESP32, RP2040, Raspberry Pi  
 USB HID bridges, BLE, sensor integration, real-time protocols
@@ -65,8 +64,6 @@ Azure, AWS, Docker, Jenkins, GitHub Actions, Rancher
 ### **Databases**
 SQL Server, Oracle, NoSQL, DynamoDB
 
-### **Specialties**
-AI agents, UI automation, accessibility workflows, high-availability systems, secure apps, firmware integrations
 
 ---
 
