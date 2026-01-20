@@ -75,7 +75,3 @@ SQL Server, Oracle, NoSQL, DynamoDB
 
 ---
 
-## 📌 Pinned Projects
-
-I pin active builds, prototypes, and research — from AI orchestration and FastAPI microservices to embedded tools and job-automation engines.
-
